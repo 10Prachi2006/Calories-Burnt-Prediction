@@ -11,6 +11,12 @@ A machine learning-powered Streamlit application that predicts calories burnt du
 - **Visualizations**: Interactive charts showing feature importance and prediction distributions
 - **Export Results**: Download batch predictions as CSV
 
+## 📸 Screenshots
+<img width="1364" height="643" alt="Screenshot 2026-01-26 at 13-58-32 Calories Burnt Prediction" src="https://github.com/user-attachments/assets/f03f0b77-dac7-4c46-849e-7c05dfce72f5" />
+<img width="1364" height="642" alt="Screenshot 2026-01-26 at 13-58-20 Calories Burnt Prediction" src="https://github.com/user-attachments/assets/b1e6d645-9233-45fd-ba31-0d271819a556" />
+<img width="1364" height="620" alt="Screenshot 2026-01-26 at 13-57-43 Calories Burnt Prediction" src="https://github.com/user-attachments/assets/bb1a3c8e-cf2d-4c1b-b8b1-30221ebfa0ad" />
+
+
 ## 🎯 Use Cases
 
 - Fitness enthusiasts wanting to estimate calories burnt during workouts
@@ -188,3 +194,15 @@ For questions or feedback, feel free to reach out or open an issue.
 ---
 
 **Happy Predicting! 🔥**
+
+## 📧 Contact & Connect
+
+**Developer:** Prachi Yadav.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-yadav-60466b343)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10Prachi2006)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starletprachi@gmail.com)
+
+---
+
+## Author: Prachi Yadav.
