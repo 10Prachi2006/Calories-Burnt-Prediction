@@ -187,21 +187,19 @@ Suggestions for improvements:
 - Implement model retraining pipeline
 - Add user authentication
 
-## 📧 Contact
+## 📧 Contact & Connect
 
 For questions or feedback, feel free to reach out or open an issue.
-
----
-
-**Happy Predicting! 🔥**
-
-## 📧 Contact & Connect
 
 **Developer:** Prachi Yadav.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-yadav-60466b343)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/10Prachi2006)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starletprachi@gmail.com)
+
+---
+
+**Happy Predicting! 🔥**
 
 ---
 
