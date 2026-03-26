@@ -207,7 +207,7 @@ For questions or feedback, feel free to reach out or open an issue.
 
 If you found this project helpful, please consider giving it a **Star**! It helps others discover the work and keeps me motivated to improve it.
 
-**Star this repo: https://github.com/10Prachi2006/RAG-Based-Agent.git**
+**Star this repo: https://github.com/10Prachi2006/Calories-Burnt-Prediction.git**
 
 ---
 
